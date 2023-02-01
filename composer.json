@@ -1,11 +1,7 @@
 {
-    "name": "sofa/hookable",
+    "name": "phutureproof/hookable",
     "description": "Laravel Eloquent hooks system.",
     "license": "MIT",
-    "support": {
-        "issues": "https://github.com/jarektkaczyk/hookable/issues",
-        "source": "https://github.com/jarektkaczyk/hookable"
-    },
     "keywords": ["eloquent", "laravel"],
     "authors": [
         {
@@ -13,6 +9,10 @@
             "email": "jarek@softonsofa.com",
             "homepage": "https://softonsofa.com/",
             "role": "Developer"
+        },
+        {
+            "name": "Dale Paget",
+            "email": "dale.phutureproof@gmail.com"
         }
     ],
     "require": {
